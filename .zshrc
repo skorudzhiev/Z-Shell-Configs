@@ -2,6 +2,9 @@
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
+## Ensures that your cursor path will show only current directory
+POWERLEVEL9K_SHORTEN_DIR_LENGTH=1
+
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 

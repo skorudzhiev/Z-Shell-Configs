@@ -220,3 +220,6 @@ alias nu="open -a Numi"
 
 alias spot='open -a Spotify'
 alias sp='open -a Spotify'
+
+# Update git submodules
+alias modules='git submodule sync --recursive && git submodule update --init --recursive'

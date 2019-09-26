@@ -196,6 +196,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+alias cl='clear'
+
 # Aliases to opening applications from terminal
 alias note="open -a Notes"
 

@@ -225,3 +225,6 @@ alias sp='open -a Spotify'
 
 # Update git submodules
 alias modules='git submodule sync --recursive && git submodule update --init --recursive'
+
+# Android Debug Bridge aliases
+alias atext='adb shell input text'
